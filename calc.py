@@ -3,7 +3,7 @@ def add(x,y):
     def subtract(x,y):
             pass_f2
         def multiply(x,y):
-            PASS
+            PASS_F3
             def divide(x,y):
                 Pass
             def square(x,y):
