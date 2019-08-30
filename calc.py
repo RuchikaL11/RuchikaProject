@@ -1,7 +1,7 @@
 def add(x,y):
-        pass
+        passF1
     def subtract(x,y):
-            pass
+            pass_f2
         def multiply(x,y):
             PASS
             def divide(x,y):
